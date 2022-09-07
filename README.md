@@ -10,5 +10,5 @@ Just testing out how it's possible to both:
 a> 'push' files into GitHub  
 b> 'fetch' files from GitHub  
 
-...by using Atom code editor having been installed on a home based Desktop Computer PC
+...by using Atom code editor having been installed on a home based Desktop Computer PC  
 which is running Windows 10 Pro OS/Operating System.
