@@ -5,7 +5,7 @@ Last updated: *Wed 7th Sep 2022 23:53 PM GMT*
 
 -----
 
-Just testing out how it's possible to:  
+Just testing out how it's possible to both:  
 
 a> 'push' files into GitHub  
 b> 'fetch' files from GitHub  
