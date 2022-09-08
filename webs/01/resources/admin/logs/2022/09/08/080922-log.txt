@@ -1,0 +1,18 @@
+Started creating this web site very early during this morning.
+
+It will be a diary type of site.
+
+My intention is to create a clickable calender...; that links to each data entry when 'clicked' on.
+
+There are 2 ways this can be done...
+
+1> Have one long file...that scrolls downwards...where each data entry is shown...with a menu at the top...that selects each data entry.
+
+This 1st method would create an extra long page...with entries not only for 2022/but, 2023/extending downwards/-etc.
+
+2> Have a div output section; together with a Javscript database...; so, that when an entry is clicked on...; it loads in the data entry
+from the database...and, displays it inside of the div output section.
+
+...the 2nd method would create a much less long page.
+
+However, if the end user has their Javacript turned off...; then, they wouldn't actually be able to see anything...?!
