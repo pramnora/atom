@@ -44,5 +44,9 @@ CALENDER SITE/OR, CALENDER PAGE...?
 Yet, another thing I need to think about is to use this web page design to build a calender web page;
 in amongst many other web pages on a huge web site...which shows many different subjects on each separate page.
 
+-----
+
+SITE LOOK: ONE SAME OVERALL THEME VS MULTIPLE DIFFERENT LOOKS/THEMES
+
 Right now, my thinking is that each separate web page...; could have a different sort of look/feel to it;
 meaning, not every single web page has to stay looking exactly the same...as in a deliberately 'themed' web site.
