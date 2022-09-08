@@ -1,0 +1,41 @@
+/*
+ Created: Thu 080922 01:01 PM GMT
+ Updated: Thu 080922 01:02 PM GMT
+*/
+
+html{
+
+}
+
+body{
+ font-family:cursive,fantasy,monospace,verdana,arial,sans-serif;
+}
+
+header{
+  text-align:center;
+}
+
+h1{
+
+}
+
+main{
+
+}
+
+main.p{
+ text-indent:1cm;
+}
+
+h2{
+
+}
+
+footer{
+ text-align:center;
+}
+
+.clsDateTimeStamp{
+  color:red;
+  font-style:italic;
+}
