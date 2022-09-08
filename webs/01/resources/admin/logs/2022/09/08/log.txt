@@ -1,6 +1,15 @@
 Created: Thu 080922 09:03 AM
 Updated: Thu 080922 12:23 PM
 
+-----
+
+FOREWORD
+
+These logs are used to indicate the state of my mind when building this web site;
+and, a mindset which changes every now and then...going either this way/or, that, rather unpredictably.
+
+-----
+
 Started creating this web site very early during this morning.
 
 It will be a diary/blog type of site.
