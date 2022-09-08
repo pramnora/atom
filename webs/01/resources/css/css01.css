@@ -29,6 +29,7 @@ nav{
 .clsSelectedIndex{
  font-style:italic;
  font-size:larger;
+ font-weight:bold;
 }
 
 header{
