@@ -8,7 +8,8 @@ FOREWORD
 This is the very 1st log file...relating to this web site creation process.
 
 These logs are used to indicate the state of my mind when building this web site;
-a mindset which tends to change every now and then...going either this way/or, that, rather unpredictably...?
+a mindset which tends to change every now and then...going either this way/or, that;
+all the time moving rather unpredictably...?
 
 -----
 
@@ -38,7 +39,7 @@ However, if the end user has their Javascript turned off...; then, they wouldn't
 
 -----
 
-CALENDER SITE/OR, CALENDER PAGE
+CALENDER SITE/OR, CALENDER PAGE...?
 
 Yet, another thing I need to think about is to use this web page design to build a calender web page;
 in amongst many other web pages on a huge web site...which shows many different subjects on each separate page.
