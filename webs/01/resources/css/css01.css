@@ -7,7 +7,7 @@
 
 a:link{color:blue;text-decoration:none;}
 a:active{color:yellow;}
-a:hover{color:red;text-decoration:underlne;}
+a:hover{color:red;text-decoration:underline;}
 a:visited{color:purple;}
 
 html{
