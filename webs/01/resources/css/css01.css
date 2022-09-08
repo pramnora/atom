@@ -38,7 +38,12 @@ footer{
  text-align:center;
 }
 
+.clsCopyrightMessage{
+ background:black;
+ color:white;
+}
+
 .clsDateTimeStamp{
-  color:red;
-  font-style:italic;
+ color:red;
+ font-style:italic;
 }
