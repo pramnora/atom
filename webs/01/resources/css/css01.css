@@ -4,11 +4,14 @@
 */
 
 html{
-
+ text-indent:1cm;
+ background-color:black;
 }
 
 body{
  font-family:cursive,fantasy,monospace,verdana,arial,sans-serif;
+ background-color:white;
+ color:black;
 }
 
 header{
