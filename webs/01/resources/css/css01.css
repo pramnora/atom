@@ -26,6 +26,11 @@ nav{
   text-align:center;
 }
 
+.clsSelectedIndex{
+ font-style:italic;
+ font-size:larger;
+}
+
 header{
   text-align:center;
 }
