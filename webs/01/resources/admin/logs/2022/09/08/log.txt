@@ -39,7 +39,7 @@ However, if the end user has their Javascript turned off...; then, they wouldn't
 
 -----
 
-CALENDER SITE/OR, CALENDER PAGE...?
+SITE WITH JUST ONE PAGE/OR, MULTIPLE PAGES...?
 
 Yet, another thing I need to think about is to use this web page design to build a calender web page;
 in amongst many other web pages on a huge web site...which shows many different subjects on each separate page.
