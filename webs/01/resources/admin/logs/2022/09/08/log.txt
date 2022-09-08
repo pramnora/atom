@@ -1,3 +1,6 @@
+Created: Thu 080922 12:23 PM
+Updated: Thu 080922 12:23 PM
+
 Started creating this web site very early during this morning.
 
 It will be a diary/blog type of site.
@@ -19,11 +22,10 @@ from the database...and, displays it inside of the div output section.
 
 ...the 2nd method would create a much less long page.
 
-However, if the end user has their Javacript turned off...; then, they wouldn't actually be able to see anything...?!
+However, if the end user has their Javascript turned off...; then, they wouldn't actually be able to see anything...?!
 
 
 -----
 
-3> Yet, another possiblity is to use this web page design to build a calender section;  
-with other web pages linking to other subjects.  
-
+3> Yet, another possiblity is to use this web page design to build a calender section;
+with other web pages linking to other subjects, instead.
