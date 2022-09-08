@@ -16,7 +16,7 @@ html{
 }
 
 body{
- text-indent:1cm;  
+ padding:1cm;
  font-family:monospace,verdana,arial,sans-serif;
  background-color:white;
  color:black;
