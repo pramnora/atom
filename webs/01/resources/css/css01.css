@@ -3,6 +3,13 @@
  Updated: Thu 080922 01:42 PM GMT
 */
 
+/* links */
+
+a:link{color:blue;text-decoration:none;}
+a:active{color:yellow;}
+a:hover{color:red;text-decoration:underlne;}
+a:visited{color:purple;}
+
 html{
  text-indent:1cm;
  background-color:black;
