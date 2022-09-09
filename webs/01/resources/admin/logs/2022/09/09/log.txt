@@ -14,8 +14,8 @@ by adding 2 further separate folder sections:
 Each separate folder...index.html page...
 has it's own 'unique' menu/file list:
 
-[Personal], cv.html(x), home.html, index.html, profile.html(x)
-[Programming], dos.html, home.html, index.html
+[Personal], cv.html(x), home.html, personal.html, profile.html(x)
+[Programming], dos.html, programming.html, index.html
 
 NOTE: The (x) just simply means that page hasn't been created, yet;
 but, I'm definitely thinking about adding it, in future.
