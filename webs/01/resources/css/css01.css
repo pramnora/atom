@@ -45,7 +45,7 @@ h1{
 }
 
 .clsH1TitleTextAtomWeb01Text{
- background-colour:lime;
+ background-color:lime;
  border:1px dashed green;
  padding:3px;
 }
@@ -68,7 +68,7 @@ h2{
 }
 
 footer{
- background-color:rgba(255,255,0,03);  
+ background-color:rgba(255,255,0,03);
  text-align:center;
 }
 
