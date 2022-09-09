@@ -1,5 +1,5 @@
 /*
- Created: Thu 080922 01:01 PM GMT
+ Created: Fri 090922 23:35 PM GMT
  Updated: Thu 080922 01:42 PM GMT
 */
 
@@ -42,6 +42,10 @@ header{
 
 h1{
 
+}
+
+.clsH1TitleTextAtomWeb01Text{
+ border:1px solid black;
 }
 
 main{
