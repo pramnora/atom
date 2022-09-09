@@ -1,6 +1,6 @@
 /*
  Created: Fri 090922 23:35 PM GMT
- Updated: Sat 100922 00:22 AM GMT
+ Updated: Sat 100922 00:29 AM GMT
 */
 
 /* links */
@@ -45,7 +45,7 @@ h1{
 }
 
 .clsH1TitleTextAtomWeb01Text{
- border:1px double black;
+ border:1px dashed green;
  padding:3px;
 }
 
