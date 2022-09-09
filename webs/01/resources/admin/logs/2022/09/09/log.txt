@@ -1,5 +1,5 @@
 Created: Fri 9th Sep 2022 15:14 PM GMT
-Updated: Fri 9th Sep 2022 17:28 PM GMT
+Updated: Fri 9th Sep 2022 17:47 PM GMT
 
 -----
 
@@ -27,3 +27,11 @@ Each individual page inside of the sub-folder(s) has, at least, 3 links...
 pagename.html, linking to the content page itself: (blog.html)
 sub-folder-name.html, linking back to the sub-folder main subject: (personal.html)
 home, linking back to the main homepage: (../index.html)
+
+-----
+
+Decided to include another sitewide change...
+All navigation links to be lower case...to start out;
+then, later on...when a link is 'selected' it's case changes to become
+all UPPERCASE characters, instead;
+this change being applied by using a CSS stylesheet.
