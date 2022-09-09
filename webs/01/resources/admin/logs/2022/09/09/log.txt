@@ -22,8 +22,8 @@ but, I'm definitely thinking about adding it, in future.
 
 -----
 
-Each sub-folder has, at least, 3 links...
+Each individual page inside of the sub-folder(s) has, at least, 3 links...
 
-pagename.html, linking to the page itself
-home, linking to the main homepage
-sub-folder name, linking to the sub-folder index.html page.
+pagename.html, linking to the content page itself: (blog.html)
+sub-folder-name.html, linking back to the sub-folder main subject: (personal.html)
+home, linking back to the main homepage: (../index.html)
