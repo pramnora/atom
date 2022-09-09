@@ -1,7 +1,7 @@
 # Atom code editor
 
 File created: *Wed 7th Sep 2022 23:53 PM GMT*  
-Last updated: *Thu 8th Sep 2022 00:27 AM GMT*
+Last updated: *Fri 9th Sep 2022 14:42 PM GMT*
 
 -----
 
@@ -14,7 +14,7 @@ b> 'fetch' files from GitHub
 
 -----
   
-**NOTES**: 
+**NOTES**:- 
 
 **NOTE(1)**: It's possible to work both inside of Windows Explorer/and, inside of Atom code editor;  
 and, any changes you make to either the directory/file structure will be reflected inside of Atom, instantly, right away.
