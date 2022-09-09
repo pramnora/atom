@@ -1,6 +1,6 @@
 /*
  Created: Fri 090922 23:35 PM GMT
- Updated: Sat 100922 00:05 PM GMT
+ Updated: Sat 100922 00:19 PM GMT
 */
 
 /* links */
@@ -47,6 +47,11 @@ h1{
 .clsH1TitleTextAtomWeb01Text{
  border:1px solid black;
  padding:3px;
+}
+
+.clsVisitorSiteLocation{
+ font-style:italic;
+ text-transform:uppercase;
 }
 
 main{
