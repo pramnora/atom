@@ -1,8 +1,16 @@
 Created: Fri 9th Sep 2022 15:14 PM GMT
 Updated: Fri 9th Sep 2022 15:14 PM GMT
 
+-----
+
 I've decided to expand the web site...;
 by adding 2 further separate folder sections:
+
+[Personal]
+[Programming]
+
+NOTE: Each separate folder...has a 'unique' menu,
+which lists it's own 'unique' set of files:
+
 [Personal], cv.html, home.html, index.html, profile.html
 [Programming], dos.html, home.html, index.html
-...each separate folder has it's own 'unique' menu which lists files, 'uniquely'.
