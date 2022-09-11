@@ -1,9 +1,9 @@
 Created: Sun 110922 16:42 PM GMT
-Updated: Sun 110922 16:42 PM GMT
+Updated: Sun 110922 17:12 PM GMT
 
 -----
 
-Added [general/link.html]
+Added new page: [general/links.html]
 
 I decided to create a links page...;
 but, as yet I remain undecided if I should...
@@ -14,3 +14,8 @@ So,...
 links.html > computing.html > programming.html > vbscript.html
 links.html > computing.html > operating-systems.html > windows.html > windows10Pro.html
 -etc.
+
+-----
+
+Added new page: [general/site-map.html]
+...re-arranged page: [general/links/index.html]
