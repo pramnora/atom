@@ -1,0 +1,16 @@
+Created: Sun 110922 16:42 PM GMT
+Updated: Sun 110922 16:42 PM GMT
+
+-----
+
+Added [general/link.html]
+
+I decided to create a links page...;
+but, as yet I remain undecided if I should...
+have just 1 long 'links' page: links.html;
+or else, divide the page up into being a series of individual web pages, instead.
+
+So,...
+links.html > computing.html > programming.html > vbscript.html
+links.html > computing.html > operating-systems.html > windows.html > windows10Pro.html
+-etc.
