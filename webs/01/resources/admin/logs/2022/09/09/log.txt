@@ -1,5 +1,5 @@
 Created: Fri 9th Sep 2022 15:14 PM GMT
-Updated: Fri 9th Sep 2022 18:27 PM GMT
+Updated: Sun 11th Sep 2022 16:14 PM GMT
 
 -----
 
@@ -27,6 +27,15 @@ Each individual page inside of the sub-folder(s) has, at least, 3 links...
 pagename.html, linking to the content page itself: (blog.html)
 sub-folder-name.html, linking back to the sub-folder main subject: (personal.html)
 home, linking back to the main homepage: (../index.html)
+
+UPDATE(Sun 110922 16:14 PM GMT):
+
+I decided the above scheme doesn't work...;
+making it too long to keep on going both backwards/forwards
+in order to find pages inside of the same one folder directory;
+instead, I decided to go for...
+a menu which includes all links inside of the current directory;
+thus, making both page selection/surfing much faster.
 
 -----
 
