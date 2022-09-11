@@ -17,5 +17,22 @@ links.html > computing.html > operating-systems.html > windows.html > windows10P
 
 -----
 
-Added new page: [general/site-map.html]
-...re-arranged page: [general/links/index.html]
+Added new page:
+[general/site-map.html]
+...re-arranged page:
+[general/links/index.html]
+
+-----
+
+Added new page: [personal\links.html]
+
+At first, I was thinking of calling this: social-media.html;
+but, then, decided no that's a bit too 'limited'...;
+instead, I'll just call it 'links'...;
+as it will contain links to everything about me on the internet;
+including...
+
+- Social Media a/c.'s'
+- Personal web sites
+- Links to links: Link.tr.ee
+- etc.
